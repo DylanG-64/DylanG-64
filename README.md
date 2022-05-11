@@ -9,6 +9,9 @@ My name is Dylan, I'm an Operations Administrator @ Appwrite based in the Nether
 * Enjoy a good workout 🏋
 * I'm Irish (Dia Duit! Conas atá tú?)🍀
 
+![giphy (1)](https://user-images.githubusercontent.com/105213810/167856506-635ddfef-ced8-42a6-8091-30138a689b00.gif)
+
+
 <!---
 DylanG-64/DylanG-64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
