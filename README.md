@@ -1,7 +1,13 @@
+My name is Dylan, I'm an Operations Administrator @ Appwrite based in the Netherlands!
+
 ![giphy](https://user-images.githubusercontent.com/105213810/167661883-0e41ba87-2796-4346-81d7-c1a626e72082.gif)
 
-My name is Dylan, I'm an Operations Administrator @ Appwrite!
-
+# 👾 A few Quick Facts
+* Love gaming (Elden Ring ❤)
+* I enjoy D&D 🐉
+* Favorite show is Brooklyn 99 🚨
+* Enjoy a good workout 🏋
+* I'm Irish (Dia Duit! Conas atá tú?)🍀
 
 <!---
 DylanG-64/DylanG-64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
