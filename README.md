@@ -1,4 +1,4 @@
-My name is Dylan, I'm an Operations Administrator @ Appwrite based in the Netherlands!
+My name is Dylan, I'm an Operations Lead @ Appwrite based in the Netherlands!
 
 ![giphy](https://user-images.githubusercontent.com/105213810/167661883-0e41ba87-2796-4346-81d7-c1a626e72082.gif)
 
