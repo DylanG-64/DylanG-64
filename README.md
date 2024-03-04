@@ -8,6 +8,7 @@ My name is Dylan, I'm an Operations Lead @ Appwrite based in the Netherlands!
 * Favorite show is Brooklyn 99 🚨
 * Enjoy a good workout 🏋
 * I'm Irish (Dia dhuit! Conas atá tú?)🍀
+* Attempting to learn Git 
 
 ![giphy (1)](https://user-images.githubusercontent.com/105213810/167856506-635ddfef-ced8-42a6-8091-30138a689b00.gif)
 
