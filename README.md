@@ -5,7 +5,7 @@ My name is Dylan, I'm an Operations Lead @ Appwrite based in the Netherlands!
 # 👾 A few Quick Facts
 * Love gaming (Elden Ring ❤)
 * I enjoy D&D 🐉
-* Favorite show Brooklyn 99 🚨
+* Favorite show is Brooklyn 99 🚨
 * Enjoy a good workout 🏋
 * I'm Irish (Dia dhuit! Conas atá tú?)🍀
 * Attempting to learn Git 
